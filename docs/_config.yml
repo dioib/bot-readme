@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
 lang: ja-JP
-title: dagon-voice-bot-prod README
+title: dagon-voice-bot-prod
 plugins:
   - jemoji

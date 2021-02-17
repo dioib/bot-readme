@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 lang: ja-JP
 title: dagon-voice-botのREADME
+plugins:
+  - jemoji

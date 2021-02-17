@@ -11,12 +11,11 @@ botをVCから退出させる。
 <details><summary>XXXXに該当する全声帯リストはこちら</summary>
 Aditi | Amy | Astrid | Bianca | Brian | Camila | Carla | Carmen | Celine | Chantal | Conchita | Cristiano | Dora | Emma | Enrique | Ewa | Filiz | Geraint | Giorgio | Gwyneth | Hans | Ines | Ivy | Jacek | Jan | Joanna | Joey | Justin | Karl | Kendra | Kevin | Kimberly | Lea | Liv | Lotte | Lucia | Lupe | Mads | Maja | Marlene | Mathieu | Matthew | Maxim | Mia | Miguel | Mizuki | Naja | Nicole | Penelope | Raveena | Ricardo | Ruben | Russell | Salli | Seoyeon | Takumi | Tatyana | Vicki | Vitoria | Zeina | Zhiyu
 </details>
-
+</br>
+  
 ## :wrench: メンテナンスについて
 
 毎日AM6:00にbotは再起動します。お手数ですが、接続中の場合は一度botをVCから退出させ、再度入室させるようお願いします。:ant:
-
-## :bow: お願い  
 
 ## :date: 更新履歴
 

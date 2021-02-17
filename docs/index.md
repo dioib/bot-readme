@@ -18,7 +18,7 @@ Aditi | Amy | Astrid | Bianca | Brian | Camila | Carla | Carmen | Celine | Chant
 
 ## :bow: お願い  
 
-## ::更新履歴
+## :date: 更新履歴
 
 2021/02/17
 

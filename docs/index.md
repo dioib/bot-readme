@@ -1,4 +1,4 @@
-# dagon-voice-bot note  
+# Note  
 
 ## :octocat: コマンド一覧
 

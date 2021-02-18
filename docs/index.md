@@ -32,7 +32,7 @@ OldOnesの世界情勢
 - VCに参加していないユーザーのテキストも読み上げるよう修正。
 
 ### :memo: 補足
-#### :loudspeaker: 声帯リスト
+#### 声帯リスト
 
 <details>
 <summary>XXXXに該当する全声帯リストはこちら</summary>

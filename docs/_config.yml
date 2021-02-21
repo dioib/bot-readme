@@ -3,3 +3,4 @@ lang: ja-JP
 title: dagon-voice-bot-prod
 plugins:
   - jemoji
+google_analytics: G-LGSMT9NMMP

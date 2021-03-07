@@ -42,3 +42,12 @@ OldOnesの世界情勢
 Aditi | Amy | Astrid | Bianca | Brian | Camila | Carla | Carmen | Celine | Chantal | Conchita | Cristiano | Dora | Emma | Enrique | Ewa | Filiz | Geraint | Giorgio | Gwyneth | Hans | Ines | Ivy | Jacek | Jan | Joanna | Joey | Justin | Karl | Kendra | Kevin | Kimberly | Lea | Liv | Lotte | Lucia | Lupe | Mads | Maja | Marlene | Mathieu | Matthew | Maxim | Mia | Miguel | Mizuki | Naja | Nicole | Penelope | Raveena | Ricardo | Ruben | Russell | Salli | Seoyeon | Takumi | Tatyana | Vicki | Vitoria | Zeina | Zhiyu
 </div>
 </details>
+
+## :bow: お願い
+Github、AWS、Heroku、Node.js これらについてあたりがつく方がいたら、このbotの保守をお願いしたいと思っています(ついでにこのREADME代わりのGitHubpageも)。ボスケテまでお声がけください。その際に、手順はまとめて共有します。  
+以下は少しでも興味を持っていただいた方への補足です。
+
+- 保守といっても現在バグというバグは発生していませんし、このbotのコードはシングルサーバー(※Discordの意味でのサーバー)前提の作りになっています。つまりこのクラン内でのみの利用なので保守で神経を尖らせる必要はありません。
+- AWS、Herokuも料金が発生する余地はありません(※厳密にはAWSで金額が発生する余地がありますが1年先に月額1円発生するかレベルです)。
+- Herokuのクレカ登録が条件の無料枠を一つ占有する必要があります。
+- なぜ保守をお願いしたいのかという点については、Herokuの利用枠をほかのことに使いたいからです。

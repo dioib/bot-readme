@@ -13,11 +13,13 @@ botをVCから退出させます。
 
 `!世界情勢`  
 OldOnesの世界情勢
-  
+
+&nbsp;
 ## :wrench: メンテナンスについて
 
 毎日AM6:00にbotは自動的に再起動します。お手数ですが、接続中の場合は一度botをVCから退出させ、再度入室させるようお願いします。:ant:
 
+&nbsp;
 ## :date: 更新履歴
 
 2021/03/07
@@ -37,6 +39,7 @@ OldOnesの世界情勢
 
 - VCに参加していないユーザーのテキストも読み上げるよう修正。
 
+&nbsp;
 ### :memo: 補足
 #### 声帯リスト
 
@@ -46,7 +49,8 @@ OldOnesの世界情勢
 Aditi | Amy | Astrid | Bianca | Brian | Camila | Carla | Carmen | Celine | Chantal | Conchita | Cristiano | Dora | Emma | Enrique | Ewa | Filiz | Geraint | Giorgio | Gwyneth | Hans | Ines | Ivy | Jacek | Jan | Joanna | Joey | Justin | Karl | Kendra | Kevin | Kimberly | Lea | Liv | Lotte | Lucia | Lupe | Mads | Maja | Marlene | Mathieu | Matthew | Maxim | Mia | Miguel | Mizuki | Naja | Nicole | Penelope | Raveena | Ricardo | Ruben | Russell | Salli | Seoyeon | Takumi | Tatyana | Vicki | Vitoria | Zeina | Zhiyu
 </div>
 </details>
-
+  
+&nbsp;  
 ## :bow: お願い
 Github、AWS、Heroku、Node.js これらについてあたりがつく方がいたら、このbotの保守をお願いしたいと思っています(ついでにこのREADME代わりのGitHubpageも)。ボスケテまでお声がけください。その際に、手順はまとめて共有します。  
 以下は少しでも興味を持っていただいた方への補足です。

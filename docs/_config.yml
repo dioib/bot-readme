@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 lang: ja-JP
-title: dagon-voice-bot-prod
+title: タコン-prod
 plugins:
   - jemoji
 google_analytics: G-LGSMT9NMMP

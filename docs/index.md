@@ -20,7 +20,14 @@ botをVCから退出させます。
 毎日AM6:00にbotは自動的に再起動します。お手数ですが、接続中の場合は一度botをVCから退出させ、再度入室させるようお願いします。:ant:
 
 &nbsp;
+## :envelope: バグ報告、ご要望などあれば[こちら](https://docs.google.com/forms/d/e/1FAIpQLScuA45MlJnaDVsFlsJibxkrfNI-MBpS8PDZNjQw_9UgaiYwkg/viewform)
+
+&nbsp;
 ## :date: 更新履歴
+2021/07/31
+
+- シングルサーバー(Discordにおける)の制限を撤廃しました。
+- 要望フォームをこのページに追加しました。
 
 2021/06/11
 

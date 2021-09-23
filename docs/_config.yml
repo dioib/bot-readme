@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 lang: ja-JP
-title: タコン-prod
+title: 読み上げタコンくん readme
 plugins:
   - jemoji
 google_analytics: G-LGSMT9NMMP
